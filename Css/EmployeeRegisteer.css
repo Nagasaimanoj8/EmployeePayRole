@@ -33,6 +33,9 @@ img {
     color: #42515f;
 }
 
+
+/*UC2*/
+
 .form-content {
     min-height: calc(100%-80px);
     background-color: #f7f7f7;
@@ -56,7 +59,7 @@ img {
     padding-bottom: 20px;
 }
 
-.row-contwnt {
+.row-content {
     display: flex;
     margin-bottom: 10px;
     align-items: center;
