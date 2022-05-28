@@ -108,3 +108,14 @@ label {
     margin-left: 12px;
     width: 2em;
 }
+
+
+/*UC5*/
+
+select {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: rgb(66, 81, 95);
+    font: normal normal normal 16px Roboto;
+}
